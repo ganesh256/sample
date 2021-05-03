@@ -1,5 +1,5 @@
 class Simple{  
     public static void main(String args[]){  
-     Sstem.out.println(" hi Hello darlings");  
+     Sstem.out.println(" Hello darlings");  
     }  
 }  
